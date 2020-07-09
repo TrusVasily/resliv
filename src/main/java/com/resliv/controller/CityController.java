@@ -2,12 +2,10 @@ package com.resliv.controller;
 
 import com.resliv.dto.CityDto;
 import com.resliv.entity.City;
-import com.resliv.exception.CustomValidation;
 import com.resliv.service.CityService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 public class CityController {

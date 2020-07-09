@@ -1,6 +1,5 @@
 package com.resliv.service.impl;
 
-import com.resliv.exception.CustomValidation;
 import com.resliv.service.CityService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
